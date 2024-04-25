@@ -104,3 +104,21 @@ body {
     box-sizing: border-box;
     overflow: scroll;
 }
+
+.persona_body {
+    width: 100%;
+    height: auto;
+    background-color: rgb(191, 137, 209);
+    border: 3px solid rgb(145, 86, 169);
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.img_body {
+    width: 200px;
+    height: 200px;
+    border: 5px solid rgb(145, 86, 169);
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin: 10px;
+}
