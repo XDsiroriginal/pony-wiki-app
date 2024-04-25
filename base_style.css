@@ -122,3 +122,20 @@ body {
     box-sizing: border-box;
     margin: 10px;
 }
+
+.sorted_panel {
+    width: 95%;
+    height: 80px;
+    border: 5px solid rgb(145, 86, 169);
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin: 10px;
+}
+
+.sorted_text {
+    color: whitesmoke;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 3.3vw;
+    white-space: nowrap;
+}
