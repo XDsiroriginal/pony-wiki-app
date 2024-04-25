@@ -97,7 +97,7 @@ body {
 
 .skroll_body {
     width: 100%;
-    height: 300%;
+    height: auto;
     background-color: rgb(191, 137, 209);
     border: 3px solid rgb(145, 86, 169);
     border-radius: 5px;
