@@ -138,3 +138,9 @@ body {
     font-size: 3.3vw;
     white-space: nowrap;
 }
+
+.pony_image {
+    width: 95%;
+    height: 95%;
+    margin: 0;
+}
